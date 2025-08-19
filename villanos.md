@@ -1,5 +1,6 @@
 # Villanos
  
 * Villano 1
-* Villano 2
-* Villano faltante
+* Capitan America
+* Nick Fury
+* Capitana Marvel
